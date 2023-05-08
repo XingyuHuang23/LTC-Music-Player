@@ -17,10 +17,18 @@ Just simply clone the repo in local, and make sure you have MongoDB and Npm envi
 🍻Product Show
 
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/player1.png" width="auto" height="auto"/>
+<p></p>
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/tre1.png" width="auto" height="auto"/>
+<p></p>
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/tre2.png" width="auto" height="auto"/>
+<p></p>
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/art1.png" width="auto" height="auto"/>
+<p></p>
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/art2.png" width="auto" height="auto"/>
+<p></p>
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/fav1.png" width="auto" height="auto"/>
+<p></p>
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/list1.png" width="auto" height="auto"/>
+<p></p>
 <img align="center" alt="img" src="https://github.com/XingyuHuang23/LTC-Music-Player/blob/main/imgs/spo1.png" width="auto" height="auto"/>
+<p></p>
